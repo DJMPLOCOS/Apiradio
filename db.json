@@ -1,14 +1,10 @@
-[
-    {
-        "song":"r1",
-        "url":"https://ice23.securenetsystems.net/WRMM",
-        "astists":"radio",
-        "cover_image":"http://voipfuturo.com/img/ico%20us.png"
-    },
-    {
-        "song":"r2",
-        "url":"https://ice23.securenetsystems.net/WRMM",
-        "astists":"radio",
-        "cover_image":"http://voipfuturo.com/img/ico%20us.png"
-    }
-]
+{
+    "radio":[
+        {
+            "song":"Rdio1",
+            "url":"http://stream.revma.ihrhls.com/zc821",
+            "artists":"dj",
+            "cover_image":"http://voipfuturo.com/img/ico%20us.png"
+        }
+    ]
+}
