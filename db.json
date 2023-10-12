@@ -1,10 +1,10 @@
-{
-    "radio":[
-        {
-            "song":"Rdio1",
-            "url":"http://stream.revma.ihrhls.com/zc821",
-            "artists":"dj",
-            "cover_image":"http://voipfuturo.com/img/ico%20us.png"
-        }
-    ]
-}
+[
+    {
+        "userId":"1",
+        "id":"1",
+        "song":"radio1",
+        "url":"http://stream.revma.ihrhls.com/zc821",
+        "artists":"dj",
+        "cover_image":"http://voipfuturo.com/img/ico%20us.png"
+    }
+]
